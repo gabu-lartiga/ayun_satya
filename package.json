@@ -1,0 +1,19 @@
+{
+  "name": "ayun_satya",
+  "version": "1.0.0",
+  "description": "Sitio público de Centro Holístico Ayün-Satya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabu-lartiga/ayun_satya.git"
+  },
+  "author": "GabiLartiga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabu-lartiga/ayun_satya/issues"
+  },
+  "homepage": "https://github.com/gabu-lartiga/ayun_satya#readme"
+}
